@@ -2,3 +2,4 @@
 
 This is my new git repository. 
 bla bla bla
+something new
